@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\bin\Debug\VechicleRental.exe.config
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\obj\Debug\VehicleRental.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\obj\Debug\VehicleRental.MainForm.resources
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\obj\Debug\VehicleRental.RentCarForm.resources
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\obj\Debug\VehicleRental.WeeklyRentChartForm.resources
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\obj\Debug\VehicleRental.VehicleDetailForm.resources
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\obj\Debug\VehicleRental.VehicleRegisterForm.resources
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\obj\Debug\VehicleRental.VehicleRentDetailForm.resources
+C:\Users\User\Downloads\Vehicle-C--master\Vehicle-C--master\obj\Debug\VehicleRental.csproj.GenerateResource.Cache
